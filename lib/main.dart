@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: "Quizstar",
+        title: "IITM_Qualifier_Quiz",
         theme: ThemeData(
           primarySwatch: Colors.orange,
         ),
